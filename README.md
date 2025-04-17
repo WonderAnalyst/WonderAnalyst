@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Wonder Paul, A professional Data Analyst and Software Developer with over 4 Years as a Software Developer.....
 
 <!--
 **WonderAnalyst/WonderAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
